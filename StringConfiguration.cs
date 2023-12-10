@@ -2,7 +2,7 @@
 {
     public class StringConfiguration
     {
-        public static string WELCOME_MESSAGE = " Welcome to File generator For CQRS Pattern : ";
+        public static string WELCOME_MESSAGE = "Welcome to File generator For CQRS Pattern : ";
         public static string MODULE_ASKING = "Please Provide The Module Name : ";
         public static string FILE_NAME_ASKING = "Please Provide The File Name : ";
         public static string OPTIONS_FOR_CREATE = "What Do you Want to Create?? Select From the Following Menu\n" +
